@@ -466,3 +466,9 @@ img.icon_32 {
   color: #333333;
   cursor: default;
 }
+
+
+/*parsing errors*/
+.parsing-error-table tr td:last-child {
+  white-space: pre-wrap;
+}
